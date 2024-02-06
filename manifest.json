@@ -1,6 +1,6 @@
 {
- "name": "Goedert Automóveis",
- "theme_color": "#FFFFFF",
+ "background_color": "#FFFFFF",
+ "description": "Faça um Tour Virtual e Conheça Nossa Loja",
  "icons": [
   {
    "type": "image/png",
@@ -38,8 +38,8 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#FFFFFF",
  "start_url": "index.htm",
- "display": "fullscreen",
- "description": "Faça um Tour Virtual e Conheça Nossa Loja"
+ "name": "Goedert Automóveis",
+ "theme_color": "#FFFFFF",
+ "display": "fullscreen"
 }
